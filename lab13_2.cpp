@@ -21,7 +21,7 @@ int main(){
 }
 
 void inputMatrix(double A[][N]){
-	cout << N << endl;
+	//cout << N << endl;
 	for(int i = 0 ; i<N ; i++){
 		cout << "Row " << i+1 << ": ";
 		for(int j = 0 ; j<N ; j++){
